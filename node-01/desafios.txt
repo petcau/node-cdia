@@ -1,0 +1,34 @@
+1. Soma de Dois Números
+Desafio: Solicitar dois números e exibir a soma.
+
+2. Par ou Ímpar
+Desafio: Ler um número e dizer se é par ou ímpar.
+
+3. Calculadora Simples
+Desafio: Criar um pequeno menu para somar, subtrair, multiplicar ou dividir.
+
+4. Contagem Progressiva
+Desafio: Mostrar os números de 1 até 10 com for.
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10 - for, while
+10, 9, 8, 7, 6, 5, 4, 3, 2, 1 - for, while
+
+
+5. Tabuada
+Desafio: Pedir um número e mostrar a tabuada de 1 a 10.
+
+6. Maior de Três Números
+Desafio: Ler três números e mostrar o maior.
+
+7. Média do Aluno
+Desafio: Calcular a média de três notas e informar se o aluno foi aprovado, reprovado ou recuperação (reprovado < 3, aprovado ≥ 7).
+
+8. Lista de Compras
+Desafio: Criar um array com 5 itens e mostrar cada um no console.
+
+
+9. Cadastro de Pessoa
+Desafio: Criar um objeto pessoa e exibir seus dados formatados.
+    nome: "Peterson"
+    idade: 32
+    cidade: "Nazare"
+    profissao: "Professor"
